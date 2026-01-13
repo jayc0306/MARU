@@ -1,0 +1,5 @@
+{
+  "name": "MARU Web3 Dashboard",
+  "description": "MARU Chain 기반의 한국인 투자자를 위한 신뢰 기반 자산 및 커뮤니티 대시보드. MARU ID 평판 시스템과 연동되어 안전한 투자 정보를 제공합니다.",
+  "requestFramePermissions": []
+}
